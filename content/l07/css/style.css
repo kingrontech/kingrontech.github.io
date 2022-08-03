@@ -209,11 +209,11 @@ margin-top:-1px;
   font-size:18px;padding:10px 0;}
 
 
-#footer{ line-height:25px;padding:10px 20px; background-color:#fff;border-top:3px solid #393738; color:#333;}
+#footer{ line-height:25px;padding:10px 20px; background-color:#fff;border-top:3px solid #393738; color:#333; background-color: #00a2e8;}
 #footer a{color:#333;}
 #footer .inner{ float:left;}
-#footer .copyright{ float:right;}
-#footer .copyright .foot_logo{margin-top:10px;}
+#footer .copyright{ float:right; text-align: end;}
+#footer .copyright .foot_logo{ /*margin-top:10px;*/ max-width: 50%;}
 
 .box1 .pro_list{padding:10px 8px;}
 .mainul { position: relative; width: 100%; overflow: hidden; }
